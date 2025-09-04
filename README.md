@@ -13,7 +13,7 @@
 <!-- Clean Professional Summary -->
 <div align="center">
   
-**3+ Years Experience** │ **15+ Projects** │ **60% Performance Boost** │ **Open to Work**
+**3+ Years Experience** │ **10+ Projects** │ **60% Performance Boost** │ **Open to Work**
 
 </div>
 
